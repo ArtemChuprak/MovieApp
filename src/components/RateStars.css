@@ -1,0 +1,11 @@
+.rate {
+    position: absolute;
+    bottom: 10px;
+}
+
+@media (max-width: 768px) {
+    .rate {
+        bottom: 4px;
+        right: 15px;
+    }
+}
