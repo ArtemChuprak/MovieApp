@@ -1,1 +1,1 @@
-https://moviesapp-aqoqn79ww-arenda-artem-mailru.vercel.app/
+https://moviesapp-e39fiwifu-arenda-artem-mailru.vercel.app/
